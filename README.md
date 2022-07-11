@@ -1,4 +1,4 @@
-# bootstrap-boilerpoint
+# collab-practice-KS
 
 This is my repository for my html / css porject template. IT has links to Bootstrap CSS and JS files
 
